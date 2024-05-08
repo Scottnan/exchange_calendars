@@ -567,6 +567,8 @@ precomputed_shanghai_holidays = pd.to_datetime(
         "2024-05-01",
         "2024-05-02",
         "2024-05-03",
+        "2024-05-04", # 2024 Chinese Labor Day http://english.sse.com.cn/start/trading/schedule/
+        "2024-05-05", # 2024 Chinese Labor Day http://english.sse.com.cn/start/trading/schedule/
         "2024-06-10",
         "2024-09-16",
         "2024-09-17",
